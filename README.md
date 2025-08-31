@@ -4,7 +4,7 @@
 Este dashboard foi desenvolvido durante a Imersão de Dados com Python da Alura. O projeto analisa dados salariais de profissionais da área de dados, oferecendo visualizações interativas e insights importantes sobre o mercado de trabalho.
 
 ## 🛠️ Tecnologias Utilizadas
-- **Streamlit**: Framework para criação de aplicações web com Python
+- **Streamlit**: Framework para criação de aplicações web com Python : https://dadospython-5ovzfydzj7mkwu769le2gj.streamlit.app
 - **Pandas**: Manipulação e análise de dados
 - **Plotly Express**: Criação de gráficos interativos
 
